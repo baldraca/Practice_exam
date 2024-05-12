@@ -41,7 +41,6 @@ public class Main {
         // Variables
         String[][] arrivals = new String[ROWS][COLUMNS];
         String[][] departures = new String[ROWS][COLUMNS];
-
         String flightNr = "";
         String airport = "";
         String arrivalDate = "";
